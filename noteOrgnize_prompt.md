@@ -13,7 +13,9 @@
 1. 标题和概述 (Title and Overview)
 2. 学习路径图 (Learning Path)
 3. 目录 (Table of Contents)
-4. 知识点详解 (Detailed Content)
+4. 知识点详解 (Detailed Content) 
+当有新知识点添加时，其他部分的文档需根据添加完的全部知识点重新整理
+（不要忽略任何学习文件中提及的知识点和语法细节！）
 5. FAQ (常见问题)
 6. 实践示例 (Practice Examples)
 7. 学习建议 (Study Tips)
